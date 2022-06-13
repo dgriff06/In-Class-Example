@@ -1,24 +1,25 @@
 # In-Class-Example
-README assignment
+Module 1 Challenge
 
 # Title
 
 ## Overview and Origin
 
 * What is the name of the company?
-
+<br> - Wealthfront
 * When was the company incorporated?
-
+<br> - 2008, Palo Alto, CA
 * Who are the founders of the company?
-
+<br> - Andy Rachleff & Dan Carroll
 * How did the idea for the company (or project) come about?
-
+<br> - The founders saw a market for financial advice after being asked for help by the people around them.
 * How is the company funded? How much funding have they received?
-
+<br> - The company has been funded through 6 investment rounds. The Angel round took place in December of 2008 and the Series E round took place in January of 2018. To date, Wealthfront has recieved $204.5 m in funding.
 
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
+<br> - to help democratize access to sophisticated financial advice
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
